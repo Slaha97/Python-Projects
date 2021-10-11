@@ -6,3 +6,4 @@ a. Password generator
 b. Text-based adventure game 
 c. Credit Card Validator 
 d. Collatz Sequence Generator
+e. Rock-Paper-Scissors-Lizard-Spock
