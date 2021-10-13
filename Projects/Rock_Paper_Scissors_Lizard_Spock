@@ -78,7 +78,7 @@ def rpsls(player_choice):
     else:
         print("Player and computer tie!")
     
-# test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
+# test your code
 rpsls("rock")
 rpsls("Spock")
 rpsls("paper")
