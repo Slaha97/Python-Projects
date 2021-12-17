@@ -1,5 +1,5 @@
 # Python-Projects
-This repository contains hands-on projects which would facilitate easy and illustrative understanding of the python programming language as well as its aplications.  
+This repository contains hands-on projects which would facilitate easy and illustrative understanding of the python programming language as well as its applications.  
 The repository consists of the following projects :- 
 
 a. Password generator
